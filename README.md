@@ -7,6 +7,17 @@ What sets Hope for Paw apart is its people-centered approach—recognising that 
 
 Hope for Paw Animal Shelter is more than a safe haven; it is a movement rooted in kindness, aiming to create a future where no animal is left behind and every paw finds its way home.
 
+29/05/2026
+One of the challenges I faced while working on Part 2 of the Hope for Paws website was learning how to properly style different sections of the website using CSS. At first, it was difficult to understand how to position elements correctly, choose suitable colours, and make the layout look neat and professional. I also struggled with ensuring that the styling was consistent across all pages.
+
+However, I really enjoyed working with CSS because it allowed me to make the website more visually appealing and interactive. It was exciting to see how adding styles such as colours, fonts, spacing, borders, and hover effects transformed the website from a simple HTML structure into a more realistic and user-friendly website. Since the website is about Hope for Paws, I enjoyed creating a warm and welcoming design that reflects care and compassion for animals. 
+
+I have changed background colour where in part 1 it was white, currently in part 2 it is light blue 
+
+The fonts of each subheadings have changed 
+
+The headings in my navigation bar have been changed to black where previously they were blue
+
 
 # References:
 Animal Care Facility (no date) City of South Perth. Available at: https://southperth.wa.gov.au/residents/animals-and-pets/animal-care-facility (Accessed: 16 April 2026). 
